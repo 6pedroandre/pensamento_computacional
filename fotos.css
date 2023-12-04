@@ -1,0 +1,9 @@
+.imagens-passando{
+    width: 413px;
+    height: 530px;
+    overflow: hidden;
+    margin: 50px;
+    box-shadow: 10px 15px rgba(0, 0, 0, 0.7);
+}
+
+.imagens-passando ul {
